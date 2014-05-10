@@ -1,3 +1,8 @@
 Das ist der Master,
 der noch einmal bearbeitet wurde.
+<<<<<<< HEAD
 Und das ist der Hotfix.
+=======
+Und das ist der Hotfix.
+Das ist der zweite Eintrag in Issue 53
+>>>>>>> iss53
